@@ -1,0 +1,60 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Othello 2.0.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Othello 2.0.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\obj\x86\Debug\Othello 2.0.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\obj\x86\Debug\Othello 2.0.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Tablero.dll
+c:\users\usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Tablero.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Fonts\FontAyuda.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\tablero.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\ficha.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\mantel.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\pared.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\piso.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\esfera.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\bombilla.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\libro.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\mar.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\poster.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\recta.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\CLICK1.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\tada.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\4B892C15\tablero.fbm\NuevaImagen_0.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\1F5A2BAD\mantel.fbm\Masonry.Stone.Alabaster_0.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\F3342B38\pared.fbm\Autodesk.Wood.Particle Board_0.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\C84A2AE7\piso.fbm\Woods & Plastics.Finish Carpentr_0.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\malaguena.xnb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\malaguena.wma
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\obj\x86\Debug\Othello 2.0.exe
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\obj\x86\Debug\Othello 2.0.pdb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Fonts\FontAyuda.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\tablero.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\ficha.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\mantel.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\pared.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\piso.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\esfera.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\bombilla.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\libro.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\mar.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\poster.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\recta.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\malaguena.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\CLICK1.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\tada.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\DifusseLight.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\D2182144\tablero.fbm\NuevaImagen_0.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\B0BA20DC\mantel.fbm\Masonry.Stone.Alabaster_0.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\8F742067\pared.fbm\Autodesk.Wood.Particle Board_0.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\6F5B2016\piso.fbm\Woods & Plastics.Finish Carpentr_0.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\malaguena.wma
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Othello 2.0.exe
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Othello 2.0.pdb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Tablero.pdb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\a.xnb
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\madera.xnb

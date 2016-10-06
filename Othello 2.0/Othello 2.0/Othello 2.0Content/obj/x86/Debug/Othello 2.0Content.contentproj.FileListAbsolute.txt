@@ -1,0 +1,2 @@
+C:\Users\Usuario\documents\visual studio 2010\Projects\Othello 2.0\Othello 2.0\Othello 2.0Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0Content\obj\x86\Debug\ResolveAssemblyReference.cache

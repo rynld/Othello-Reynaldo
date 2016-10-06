@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2012-01-19T10:45:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\FontAyuda.spritefont</Source>
+      <Name>Fonts\FontAyuda</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Fonts\FontAyuda.xnb</Output>
+      <Time>2012-01-19T10:45:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\tablero.FBX</Source>
+      <Name>Modelos\tablero</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\tablero.xnb</Output>
+      <Time>2012-01-03T20:05:48+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\tablero_0.xml</Key>
+        <Value>2012-01-29T11:30:50.4293246+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\D2182144\tablero.fbm\NuevaImagen_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modelos\ficha.FBX</Source>
+      <Name>Modelos\ficha</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\ficha.xnb</Output>
+      <Time>2012-01-03T20:05:52+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\ficha_0.xml</Key>
+        <Value>2012-01-29T11:30:51.4273817+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modelos\mantel.FBX</Source>
+      <Name>Modelos\mantel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\mantel.xnb</Output>
+      <Time>2012-01-19T10:46:10+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\mantel_0.xml</Key>
+        <Value>2012-01-29T11:30:52.2154268+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\B0BA20DC\mantel.fbm\Masonry.Stone.Alabaster_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modelos\piso.FBX</Source>
+      <Name>Modelos\piso</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\piso.xnb</Output>
+      <Time>2012-01-19T10:46:12+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\piso_0.xml</Key>
+        <Value>2012-01-29T11:30:57.5927343+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\6F5B2016\piso.fbm\Woods &amp; Plastics.Finish Carpentr_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modelos\esfera.FBX</Source>
+      <Name>Modelos\esfera</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\esfera.xnb</Output>
+      <Time>2012-01-19T10:46:30+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\esfera_0.xml</Key>
+        <Value>2012-01-29T11:30:58.5267878+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Imagenes\bombilla.jpg</Source>
+      <Name>Imagenes\bombilla</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\bombilla.xnb</Output>
+      <Time>2012-01-19T10:45:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\libro.jpg</Source>
+      <Name>Imagenes\libro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\libro.xnb</Output>
+      <Time>2012-01-19T10:45:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\mar.jpg</Source>
+      <Name>Imagenes\mar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\mar.xnb</Output>
+      <Time>2012-01-19T10:45:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\poster.jpg</Source>
+      <Name>Imagenes\poster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\poster.xnb</Output>
+      <Time>2012-01-19T10:45:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\recta.png</Source>
+      <Name>Imagenes\recta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\recta.xnb</Output>
+      <Time>2012-01-19T10:45:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\09 Lecuona Malagueña-MP3 - MPEG Layer-3 Audio.mp3</Source>
+      <Name>Musica\malaguena</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\malaguena.xnb</Output>
+      <Extra>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\malaguena.wma</Extra>
+      <Time>2012-01-19T10:46:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\CLICK1.WAV</Source>
+      <Name>Musica\CLICK1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\CLICK1.xnb</Output>
+      <Time>2012-01-19T10:46:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\tada.wav</Source>
+      <Name>Musica\tada</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Musica\tada.xnb</Output>
+      <Time>2012-01-19T10:46:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DifusseLight.fx</Source>
+      <Name>DifusseLight</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\DifusseLight.xnb</Output>
+      <Time>2012-01-29T19:25:35.2883278+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\tablero.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\tablero_0.xml</Output>
+      <Time>2012-01-03T20:05:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\D2182144\tablero.fbm\NuevaImagen.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\D2182144\tablero.fbm\NuevaImagen_0.xnb</Output>
+      <Time>2012-01-29T11:30:49.9342963+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\ficha.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\ficha_0.xml</Output>
+      <Time>2012-01-03T20:05:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\mantel.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\mantel_0.xml</Output>
+      <Time>2012-01-19T10:46:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\B0BA20DC\mantel.fbm\Masonry.Stone.Alabaster.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\B0BA20DC\mantel.fbm\Masonry.Stone.Alabaster_0.xnb</Output>
+      <Time>2012-01-29T11:30:51.5813905+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\pared.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\pared_0.xml</Output>
+      <Time>2012-01-19T10:46:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\8F742067\pared.fbm\Autodesk.Wood.Particle Board.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\8F742067\pared.fbm\Autodesk.Wood.Particle Board_0.xnb</Output>
+      <Time>2012-01-29T11:30:53.2754874+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\piso.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\piso_0.xml</Output>
+      <Time>2012-01-19T10:46:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\6F5B2016\piso.fbm\Woods &amp; Plastics.Finish Carpentry.Wood.Mahogany.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\6F5B2016\piso.fbm\Woods &amp; Plastics.Finish Carpentr_0.xnb</Output>
+      <Time>2012-01-29T11:30:57.5837338+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\esfera.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\esfera_0.xml</Output>
+      <Time>2012-01-19T10:46:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\pared.FBX</Source>
+      <Name>Modelos\pared</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\pared.xnb</Output>
+      <Time>2012-01-19T10:46:12+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\pared_0.xml</Key>
+        <Value>2012-01-29T11:30:53.2924884+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\FBX\8F742067\pared.fbm\Autodesk.Wood.Particle Board_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Modelos\a.FBX</Source>
+      <Name>Modelos\a</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Modelos\a.xnb</Output>
+      <Time>2012-01-29T19:24:15.0787401+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\a_0.xml</Key>
+        <Value>2012-01-29T19:24:29.7545795+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modelos\a.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\a_0.xml</Output>
+      <Time>2012-01-29T19:24:15.0787401+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\madera.png</Source>
+      <Name>Imagenes\madera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\Imagenes\madera.xnb</Output>
+      <Time>2012-01-29T19:25:09.2388379+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\j\Desktop\Ultimo\Othello 2.0\Othello 2.0\Othello 2.0\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-22T13:17:23.8962099+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

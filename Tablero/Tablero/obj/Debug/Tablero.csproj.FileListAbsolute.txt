@@ -1,0 +1,10 @@
+c:\users\j\documents\visual studio 2010\Projects\Tablero\Tablero\obj\Debug\ResolveAssemblyReference.cache
+c:\users\j\documents\visual studio 2010\Projects\Tablero\Tablero\bin\Debug\Tablero.dll
+c:\users\j\documents\visual studio 2010\Projects\Tablero\Tablero\bin\Debug\Tablero.pdb
+c:\users\j\documents\visual studio 2010\Projects\Tablero\Tablero\obj\Debug\Tablero.dll
+c:\users\j\documents\visual studio 2010\Projects\Tablero\Tablero\obj\Debug\Tablero.pdb
+C:\Users\Usuario\Desktop\Othello\Visual Studio 2010\Projects\Tablero\Tablero\bin\Debug\Tablero.dll
+C:\Users\Usuario\Desktop\Othello\Visual Studio 2010\Projects\Tablero\Tablero\bin\Debug\Tablero.pdb
+C:\Users\Usuario\Desktop\Othello\Visual Studio 2010\Projects\Tablero\Tablero\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Othello\Visual Studio 2010\Projects\Tablero\Tablero\obj\Debug\Tablero.dll
+C:\Users\Usuario\Desktop\Othello\Visual Studio 2010\Projects\Tablero\Tablero\obj\Debug\Tablero.pdb
